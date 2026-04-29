@@ -45,7 +45,7 @@ Interactive Power BI dashboard analyzing 50 Canadian tech job postings from Apri
 4. **Salary by Experience Level** - Clear comparison of entry vs mid vs senior roles
 
 ## 📁 Project Files
-- `Dashboard_Screenshot.png` - Final dashboard visualization
+- `Canadian_Tech_Jobs_Dashboard-1.png` - Final dashboard visualization
 - `canadian_jobs_data.csv` - Raw dataset (50 job records)
 - `README.md` - This file with documentation
 
@@ -61,7 +61,7 @@ Interactive Power BI dashboard analyzing 50 Canadian tech job postings from Apri
 ## 💡 How to Use This Project
 
 ### View the Dashboard
-1. Open `Dashboard_Screenshot.png` to see the final interactive dashboard
+1. Open `Canadian_Tech_Jobs_Dashboard-1.png` to see the final interactive dashboard
 2. The dashboard shows real Canadian tech job market data
 3. Interactive filters demonstrate advanced Power BI capabilities
 
